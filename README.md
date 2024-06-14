@@ -1,2 +1,5 @@
 # desenvolve-python-basico
-Projeto Desenvolve - Itabira Disciplina - programação  básica python PDITA 209
+Projeto Desenvolve - Itabira 
+Wesley Victor Ferreira 
+Disciplina - programação  básica python 
+PDITA 209
